@@ -3,4 +3,14 @@
   <dimen name="activity_horizontal_margin">16dp</dimen>
   <dimen name="activity_vertical_margin">16dp</dimen>
   <dimen name="toast_vertical_margin">64dp</dimen>
+  <dimen name="main_padding">8dp</dimen>
+  <dimen name="image_view_width">0dp</dimen>
+<!--  <dimen name="image_view_height">75dp</dimen>-->
+  <dimen name="image_view_margin_end">8dp</dimen>
+  <dimen name="title_text_view_width">0dp</dimen>
+  <dimen name="title_text_view_margin_end">8dp</dimen>
+  <dimen name="title_text_view_margin_bottom">8dp</dimen>
+  <dimen name="date_text_view_width">0dp</dimen>
+  <dimen name="access_text_view_width">0dp</dimen>
+
 </resources>
