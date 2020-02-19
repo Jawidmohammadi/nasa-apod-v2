@@ -44,7 +44,7 @@ public class Apod {
   private MediaType mediaType;
 
   @Ignore
-  @Expose
+  @Expose //telling room to take it as a table
   @SerializedName("service_version")
   private String serviceVersion;
 

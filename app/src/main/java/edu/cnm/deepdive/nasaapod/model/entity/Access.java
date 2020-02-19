@@ -11,7 +11,7 @@ import java.util.Date;
     foreignKeys = @ForeignKey(
         entity = Apod.class,
         parentColumns = "apod_id",
-        childColumns = "apod_id",
+         childColumns = "apod_id",
         onDelete = ForeignKey.CASCADE
     )
 )
